@@ -14,7 +14,7 @@ Elemento.classList = Usar classList é uma alternativa conveniente para acessar 
  Node.appendChild = Adicionado um nó ao final da lista de filhos de um nó especificado. Se o nó já não existir nenhum documento, ele será removido do seu nó pai atual antes de ser adicionado ao novo pai.
 
 Documento.querySelector() = Retorna o primeiro elemento dentro do documento (usando ordenação em profundidade, pré-ordenada e transversal a nós do documento) que corresponde ao grupo especificado de seletores.
-# ----------------------------------------- Imagem de Capa --------------------------------------------------
+# --------------- Imagem de Capa ---------------
 item.innerHTML = `
     <img src="${capa}" /> <br>
     <strong>${nome}</strong> - ${artista} <br>
